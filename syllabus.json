@@ -1,0 +1,67 @@
+{
+  "user": {
+    "name": "User",
+    "programs": [
+      {
+        "name": "CSE",
+        "viewDetails": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_7f99abe5bb66465c8a99aeee4d6a3942.pdf",
+        "semesters": {
+          "I - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "I - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e09eb92d12f94b2b960e00f3fa0f4075.pdf",
+          "II - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4c1fcf72ddf14d939d520fcba3e675d5.pdf",
+          "II - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_70d0e9de279f4a4aabe4866030541a21.pdf"
+        }
+      },
+      {
+        "name": "CSE - AIML",
+        "viewDetails": "href",
+        "semesters": {
+          "I - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "I - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf",
+          "II - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_0f83686784294036afc676b9910187bb.pdf",
+          "II - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_3c992a545d394611a9717affde42cc35.pdf"
+        }
+      },
+      {
+        "name": "CSE - DATA SCIENCE",
+        "viewDetails": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_c2829e50b2f1440b991f950d154d7930.pdf",
+        "semesters": {
+          "I - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "I - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf",
+          "II - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_0f83686784294036afc676b9910187bb.pdf",
+          "II - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_ea1f11147b154e8e8a73aa875fa71b19.pdf"
+        }
+      },
+      {
+        "name": "CSE - CYBER SECURITY",
+        "viewDetails": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_96d4feed1069440997298ed9ecb67ec0.pdf",
+        "semesters": {
+          "I - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "I - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf",
+          "II - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_33aa09c4a3d44d93984d9250a4f02289.pdf",
+          "II - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_f3792b27d5334eb7af47602a263b658c.pdf"
+        }
+      },
+      {
+        "name": "CSE - IoT",
+        "viewDetails": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_280657e5b8de4fc2aac08ed6b384ca2f.pdf",
+        "semesters": {
+          "I - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "I - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "II - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "II - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"
+        }
+      },
+      {
+        "name": "INFORMATION TECHNOLOGY",
+        "viewDetails": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_82c9e6c03d1b4f1a87539689c820958e.pdf",
+        "semesters": {
+          "I - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "I - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "II - I Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf",
+          "II - II Sem": "https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_4f28745b49344c5b906771c22928376c.pdf"
+        }
+      }
+    ]
+  }
+}
